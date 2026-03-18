@@ -11,6 +11,11 @@ This project is a Power BI dashboard designed to analyze and visualize e-commerc
 🎯 Top Products & Customer Insights
 🎛️ Interactive Filters & Slicers
 
+🛠️ Tools & Technologies Used
+Power BI – Data visualization and dashboard creation
+DAX (Data Analysis Expressions) – Calculations and measures
+Power Query – Data cleaning and transformation
+
 📊 Key Insights
 Identifies top-performing products and categories
 Highlights revenue and profit trends over time
